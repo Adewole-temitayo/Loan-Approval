@@ -1,5 +1,5 @@
 # 📊 Loan Application Analysis (Excel Project)
-##![Image](https://github.com/user-attachments/assets/a4e71d53-b0ad-4faf-a6c3-a7dbc31960f0)
+![Image](https://github.com/user-attachments/assets/a4e71d53-b0ad-4faf-a6c3-a7dbc31960f0)
 ## 🗂️ About the Dataset
 This dataset simulates loan applications and approval outcomes for **2,000 individuals**.  
 It contains demographic, financial, and employment-related attributes that can be used to explore loan approval patterns and credit risk factors.
